@@ -7,9 +7,9 @@ from seq_reader import sequence
 #=LED=Setup===============================================================================
 #Each array of LEDs can have their own frequency bar P18 which is LED 3 Red which is fixed
 
-RedF = 100
-GreenF = 150
-BlueF = 75
+RedF = 200
+GreenF = 224
+BlueF = 272
 
 # This initialises all the pins by setting all the frequencies. The pwm Library makes sure
 # the right commands go to the right pins. Note that most of the pins share each others
